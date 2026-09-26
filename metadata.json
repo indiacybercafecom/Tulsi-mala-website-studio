@@ -1,0 +1,8 @@
+{
+  "name": "The Devotional Touch | Handcrafted Tulsi Mala",
+  "description": "Authentic handcrafted Tulsi Mala, sacred wrist bands, and japa malas made from genuine holy basil wood for meditation and spiritual devotion.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
